@@ -1,0 +1,4 @@
+Maven in 28 minutes - course
+
+https://github.com/in28minutes/MavenIn28Minutes/
+
